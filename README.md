@@ -1,1 +1,3 @@
-# Sentiment-Analysis-Bi-LSTM
+# Amazon Reviews Sentiment Analysis
+
+## _Dataset_
